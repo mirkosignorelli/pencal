@@ -5,11 +5,12 @@
 [![Monthly Downloads](http://cranlogs.r-pkg.org/badges/pencal)](http://cranlogs.r-pkg.org/badges/pencal)
 
 ## What is pencal?
-pencal is the R package that implements Penalized Regression Calibration (PRC), a statistical method that we proposed in Signorelli *et al.* (2021). Penalized regression calibration: A method for the prediction of survival outcomes using complex longitudinal and high-dimensional data. *Statistics in Medicine*.
+`pencal` is the `R` package that implements Penalized Regression Calibration (PRC), a statistical method that we proposed in Signorelli *et al.* (2021). Penalized regression calibration: A method for the prediction of survival outcomes using complex longitudinal and high-dimensional data. *Statistics in Medicine*.
 You can read and download the paper (with open access) here: https://onlinelibrary.wiley.com/doi/10.1002/sim.9178
 
 ## About this repository
-This repository contains the data and code to reproduce the simulations presented in Signorelli et al. (in review). It is divided into two subfolders:
+This repository contains the data and code to reproduce the simulations presented in Signorelli et al. (in review). It is divided into 3 subfolders:
 
 * `simulations_PRC_LMM` contains the scripts used for simulations 1 to 6;
-* `simulations_PRC_MLPMM` contains the scripts used for simulations 7 to 12.
+* `simulations_PRC_MLPMM` contains the scripts used for simulations 7 to 12;
+* `supplementary` contains the results of the simulations presented in the supplementary material.
