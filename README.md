@@ -14,3 +14,18 @@ This repository contains the data and code to reproduce the simulations presente
 * `simulations_PRC_LMM` contains the scripts used for simulations 1 to 6;
 * `simulations_PRC_MLPMM` contains the scripts used for simulations 7 to 12;
 * `supplementary` contains the results of the simulations presented in the supplementary material.
+
+## How to download pencal
+`pencal` is an `R` package that can be downloaded from `CRAN`. This can be done in `R` through the command 
+```
+install.packages('pencal')
+```
+
+## Further information
+More information on ptmixed can be found in the following pages:
+* [CRAN package page](https://cran.r-project.org/web/packages/pencal/index.html);
+* [on my personal website](https://mirkosignorelli.github.io/r.html);
+* [in the vignette that illustrates how to use the R package's functions](https://cran.r-project.org/web/packages/pencal/vignettes/pencal.html).
+
+A read-only mirror of the package's source code is available at https://github.com/cran/pencal.
+
