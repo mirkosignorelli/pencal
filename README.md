@@ -22,10 +22,10 @@ install.packages('pencal')
 ```
 
 ## Further information
-More information on ptmixed can be found in the following pages:
+More information on PRC can be found at the following pages:
 * [CRAN package page](https://cran.r-project.org/web/packages/pencal/index.html);
-* [on my personal website](https://mirkosignorelli.github.io/r.html);
-* [in the vignette that illustrates how to use the R package's functions](https://cran.r-project.org/web/packages/pencal/vignettes/pencal.html).
+* [my personal website](https://mirkosignorelli.github.io/r.html);
+* [vignette that illustrates how to use the R package's functions](https://cran.r-project.org/web/packages/pencal/vignettes/pencal-vignette.html).
 
 A read-only mirror of the package's source code is available at https://github.com/cran/pencal.
 
