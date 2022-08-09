@@ -23,6 +23,13 @@ This repository contains the data and code to reproduce the simulations presente
 install.packages('pencal')
 ```
 
+If you encounter problems with packages on which `pencal` depends, you may alternatively install the package using `BiocManager`:
+
+```
+if (!require("BiocManager", quietly = TRUE)) install.packages("BiocManager")
+BiocManager::install('pencal')
+```
+
 ## Further information
 More information on PRC can be found at the following pages:
 * [CRAN package page](https://cran.r-project.org/web/packages/pencal/index.html);
