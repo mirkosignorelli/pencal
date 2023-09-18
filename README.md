@@ -34,7 +34,7 @@ BiocManager::install('pencal')
 More information on PRC can be found at the following pages:
 * [CRAN package page](https://cran.r-project.org/web/packages/pencal/index.html);
 * [my personal website](https://mirkosignorelli.github.io/r.html);
-* [vignette that illustrates how to use the R package's functions](https://cran.r-project.org/web/packages/pencal/vignettes/pencal-vignette.html).
+* [vignette that illustrates with examples how to use `pencal`](https://cran.r-project.org/web/packages/pencal/vignettes/vignette.pdf).
 
 A read-only mirror of the package's source code is available at https://github.com/cran/pencal.
 
